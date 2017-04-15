@@ -668,7 +668,7 @@ INT_SEL_0
 Text Label 4900 1100 0    60   ~ 0
 INT_SEL_0
 Text Label 4900 1200 0    60   ~ 0
-INT_SEL_0
+INT_SEL_1
 Wire Wire Line
 	4900 1200 5350 1200
 Wire Wire Line
@@ -718,7 +718,7 @@ EC_TX
 Text Label 7350 4500 0    60   ~ 0
 EC_RX
 Text Label 8600 4500 0    60   ~ 0
-EC_RX
+EC_TX
 Text Label 8600 4400 0    60   ~ 0
 EC_RX
 Wire Wire Line
