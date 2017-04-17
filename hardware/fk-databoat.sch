@@ -664,7 +664,7 @@ Wire Wire Line
 Text Label 4250 1200 0    60   ~ 0
 INT_SEL_0
 Text Label 4250 1300 0    60   ~ 0
-INT_SEL_0
+INT_SEL_1
 Text Label 4900 1100 0    60   ~ 0
 INT_SEL_0
 Text Label 4900 1200 0    60   ~ 0
